@@ -2,7 +2,7 @@ WITH rankedSalary AS(
     SELECT employee_id,
     salary,
     DENSE_RANK() OVER (
-        PARTITION BY department ORDER BY SALARY DESC
+        ORDER BY SALARY DESC
     ) as rank
     FROM employees
 )
