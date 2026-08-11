@@ -1,0 +1,10 @@
+employee_id,employee_name,department,salary
+E101,Alice Smith,Engineering,95000
+E102,Bob Jones,Engineering,120000
+E103,Charlie Brown,Engineering,110000
+E104,Diana Prince,Engineering,95000
+E105,Evan Wright,Engineering,80000
+S201,Fiona Gallagher,Sales,60000
+S202,George Clark,Sales,85000
+S203,Hannah Abbott,Sales,90000
+S204,Ian Malcolm,Sales,75000
