@@ -1,0 +1,14 @@
+employee_id,department_id,employee_name,salary
+101,Engineering,Aarav,120000
+102,Engineering,Rohan,110000
+103,Engineering,Priya,95000
+104,Engineering,Neha,95000
+105,Engineering,Vikram,80000
+201,Marketing,Ananya,90000
+202,Marketing,Kabir,88000
+203,Marketing,Meera,85000
+204,Marketing,Rahul,75000
+301,Sales,Amit,105000
+302,Sales,Sneha,105000
+303,Sales,Kiran,92000
+304,Sales,Deepak,85000
