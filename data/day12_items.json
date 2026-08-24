@@ -1,0 +1,88 @@
+[
+  {
+    "order_id": "O101",
+    "customer_id": "C001",
+    "items": [
+      {"item": "Laptop", "price": 1200},
+      {"item": "Mouse", "price": 25}
+    ],
+    "order_date": "2026-08-20"
+  },
+  {
+    "order_id": "O102",
+    "customer_id": "C002",
+    "items": [
+      {"item": "Keyboard", "price": 75}
+    ],
+    "order_date": "2026-08-20"
+  },
+  {
+    "order_id": "O103",
+    "customer_id": "C003",
+    "items": [
+      {"item": "Monitor", "price": 300},
+      {"item": "HDMI Cable", "price": 15}
+    ],
+    "order_date": "2026-08-21"
+  },
+  {
+    "order_id": "O104",
+    "customer_id": "C001",
+    "items": [
+      {"item": "Headphones", "price": 100}
+    ],
+    "order_date": "2026-08-21"
+  },
+  {
+    "order_id": "O105",
+    "customer_id": "C004",
+    "items": [
+      {"item": "Tablet", "price": 450},
+      {"item": "Case", "price": 30}
+    ],
+    "order_date": "2026-08-22"
+  },
+  {
+    "order_id": "O106",
+    "customer_id": "C002",
+    "items": [
+      {"item": "Phone", "price": 800},
+      {"item": "Charger", "price": 40}
+    ],
+    "order_date": "2026-08-22"
+  },
+  {
+    "order_id": "O107",
+    "customer_id": "C005",
+    "items": [
+      {"item": "Printer", "price": 200}
+    ],
+    "order_date": "2026-08-23"
+  },
+  {
+    "order_id": "O108",
+    "customer_id": "C003",
+    "items": [
+      {"item": "Desk", "price": 250},
+      {"item": "Chair", "price": 150}
+    ],
+    "order_date": "2026-08-23"
+  },
+  {
+    "order_id": "O109",
+    "customer_id": "C004",
+    "items": [
+      {"item": "Webcam", "price": 60}
+    ],
+    "order_date": "2026-08-24"
+  },
+  {
+    "order_id": "O110",
+    "customer_id": "C001",
+    "items": [
+      {"item": "Speaker", "price": 90},
+      {"item": "Mic", "price": 110}
+    ],
+    "order_date": "2026-08-24"
+  }
+]

@@ -1,0 +1,11 @@
+transaction_id,customer_id,amount,transaction_date,status
+T101,C001,250,2026-08-01,success
+T102,C002,400,2026-08-02,success
+T101,C001,250,2026-08-01,success
+T103,C003,150,2026-08-03,failed
+T104,C001,300,2026-08-04,success
+T102,C002,400,2026-08-02,success
+T105,C004,500,2026-08-05,success
+T103,C003,150,2026-08-03,success
+T106,C005,220,2026-08-06,success
+T104,C001,300,2026-08-04,success

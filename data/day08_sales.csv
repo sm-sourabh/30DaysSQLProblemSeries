@@ -1,0 +1,11 @@
+store_id,quarter,category,sales
+S01,Q1,Electronics,12000
+S01,Q2,Electronics,15000
+S01,Q1,Furniture,8000
+S01,Q2,Furniture,9500
+S02,Q1,Electronics,11000
+S02,Q2,Electronics,13000
+S02,Q1,Furniture,7000
+S02,Q2,Furniture,7500
+S01,Q3,Electronics,17000
+S02,Q3,Electronics,14000

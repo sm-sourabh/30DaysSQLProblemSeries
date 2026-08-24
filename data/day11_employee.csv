@@ -1,0 +1,11 @@
+emp_id,emp_name,manager_id,department,salary
+E01,Aarav Sharma,NULL,Executive,120000
+E02,Priya Patel,E01,Engineering,90000
+E03,Rohan Gupta,E01,Engineering,85000
+E04,Neha Singh,E02,Engineering,75000
+E05,Vikram Malhotra,E01,Sales,95000
+E06,Sneha Joshi,E05,Sales,60000
+E07,Amit Verma,E05,Sales,62000
+E08,Pooja Kulkarni,E01,HR,80000
+E09,Karan Mehta,E08,HR,55000
+E10,Ananya Rao,NULL,Finance,110000
